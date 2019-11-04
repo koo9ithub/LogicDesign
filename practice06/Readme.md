@@ -19,7 +19,10 @@
 
  ### 아래 코드 일부를 수정하여 다음을 구하시오
  
- ```verilog wire  [41:0] six_digit_seg; assign       six_digit_seg = { 4{7'b0000000}, seg_left, seg_right } ```
+ ```verilog 
+ wire  [41:0] six_digit_seg; 
+ assign       six_digit_seg = { 4{7'b0000000}, seg_left, seg_right } 
+ ```
  
   > Q1 - 고정 LED (왼쪽 4개) AAAA 출력 : `AA_AA_00`, `AA_AA_01`, `AA_AA_02`, … 순으로 LED 변경
 
