@@ -1,4 +1,5 @@
 
+![]
 # Lab 06
 
 ## 실습 내용
@@ -35,7 +36,12 @@
 
 
 ### **FPGA 동작 사진 (3개- 일반, Q1, Q2)**
-`Please fill up your source`
+
+![](https://github.com/koo9ithub/LogicDesign/blob/master/practice06/5.jpg)
+
+![](https://github.com/koo9ithub/LogicDesign/blob/master/practice06/3.jpg)
+
+![](https://github.com/koo9ithub/LogicDesign/blob/master/practice06/1.jpg)
 
 
 > Written with [StackEdit](https://stackedit.io/).
